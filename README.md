@@ -92,4 +92,5 @@ function getInitialProps({store, isServer, pathname, query}) {
 
 ## Redux Saga
 
-Useful example: https://gist.github.com/pesakitan22/94b4984140ba0f2c9e52c5289a7d833e.
+* [How to use with Redux and Redux Saga](https://www.robinwieruch.de/nextjs-redux-saga/)
+* Another useful example: https://gist.github.com/pesakitan22/94b4984140ba0f2c9e52c5289a7d833e.
